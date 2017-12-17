@@ -1,0 +1,16 @@
+﻿  cGame.cpp
+c:\users\adam\documents\!uni\coursework - adam wallace\coursework - adam wallace\cgame.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\adam\documents\!uni\coursework - adam wallace\coursework - adam wallace\cgame.cpp(99): warning C4018: '<': signed/unsigned mismatch
+c:\users\adam\documents\!uni\coursework - adam wallace\coursework - adam wallace\cgame.cpp(104): warning C4018: '<': signed/unsigned mismatch
+  CourseWork - Adam Wallace.vcxproj -> C:\Users\Adam\Documents\!uni\CourseWork - Adam Wallace\Debug\CourseWork - Adam Wallace.exe
+  CourseWork - Adam Wallace.vcxproj -> C:\Users\Adam\Documents\!uni\CourseWork - Adam Wallace\Debug\CourseWork - Adam Wallace.pdb (Partial PDB)
+  copying SDL2.dll to debug directory
+  C:\Users\Adam\Documents\!uni\SDL2\SDL2-2.0.4\lib\x86\SDL2.dll
+  1 File(s) copied
+  C:\Users\Adam\Documents\!uni\SDL2\SDL2_image-2.0.1\lib\x86\libjpeg-9.dll
+  C:\Users\Adam\Documents\!uni\SDL2\SDL2_image-2.0.1\lib\x86\libpng16-16.dll
+  C:\Users\Adam\Documents\!uni\SDL2\SDL2_image-2.0.1\lib\x86\libtiff-5.dll
+  C:\Users\Adam\Documents\!uni\SDL2\SDL2_image-2.0.1\lib\x86\libwebp-4.dll
+  C:\Users\Adam\Documents\!uni\SDL2\SDL2_image-2.0.1\lib\x86\SDL2_image.dll
+  C:\Users\Adam\Documents\!uni\SDL2\SDL2_image-2.0.1\lib\x86\zlib1.dll
+  6 File(s) copied
